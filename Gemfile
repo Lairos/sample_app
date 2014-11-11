@@ -58,3 +58,6 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'byebug' , group: [:development, :test]
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
